@@ -6,17 +6,17 @@ Questo codice di comportamento è pensato per coprire tutte le interazioni tra i
 
 
 
-# Inclusivity and Appropriate Conduct
+# Inclusività e comportamento appropriato
 
-# Retaliation
+# Rappresaglie
 
-# Code of Conduct Committee
+# Comitato del Codice di Comportamento
 
-# Reporting
+# Segnalazioni
 
-# Handling of Complaints
+# Gestione dei reclami
 
-# Acting in Good Faith
+# Agire in buona fede
 
 # Aggiornamenti del codice di comportamento
 
