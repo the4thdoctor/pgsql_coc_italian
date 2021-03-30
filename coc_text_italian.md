@@ -43,6 +43,15 @@ Il Comitato,  di propria iniziativa, può rivolgersi al Core Team per richiedere
 
 
 # Segnalazioni
+Le vittime di un comportamento inappropriato o i testimoni di tale comportamento, sono pregati di segnalarlo prontamente al Comitato del Codice di Comportamento all'indirizzo coc@postgresql.org. Nel malaugurato caso in cui si desideri presentare un reclamo contro un membro del Comitato, è sufficiente contattare direttamente uno qualsiasi degli altri membri del Comitato.
+
+Nella segnalazione andranno inclusi quanti più dettagli possibili:
+
+* la descrizione dell'incidente;
+* la tempistica degli eventi;
+* screenshot di eventuali discussioni elettroniche;
+* i nomi e, se possibile, i contatti di eventuali testimoni; 
+* qualsiasi altra informazione che sia ritenuta utile ai fini dell'indagine.
 
 # Gestione dei reclami
 
