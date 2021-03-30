@@ -90,6 +90,12 @@ Updates to the Code of Conduct
 The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
 
 Community members who have a suggestion for a revision to the Code of Conduct may submit their ideas to the Committee via email to coc@postgresql.org.
+
+# Updates to the Code of Conduct
+The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
+
+Community members who have a suggestion for a revision to the Code of Conduct may submit their ideas to the Committee via email to coc@postgresql.org.
+
 # Conferences and Events
 
 The project encourages each event organizer to create and maintain a Code of Conduct for their event. Those Codes of Conduct may or may not be identical to this Code of Conduct. Each event organizer is responsible for handling inappropriate conduct at their event in a prompt and objective manner.
