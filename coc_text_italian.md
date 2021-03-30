@@ -56,9 +56,31 @@ Nella segnalazione andranno inclusi quanti più dettagli possibili:
 # Gestione dei reclami
 
 # Agire in buona fede
+Chiunque presenti un reclamo relativo ad un incidente deve farlo in buona fede ed avere ragionevoli motivi per ritenere che le informazioni in suo possesso indichino una violazione di questa policy. Qualora un'accusa venga dimostrata come falsa e che venga provato la mala fede in colui che l'ha formulata essa sarà considerata un grave reato comunitario ed una violazione del presente codice di comportamento.
+
+# Aggiornamenti al codice di condotta
+
+Il Comitato e / o il Core Team valuteranno gli aggiornamenti al presente Codice di condotta secondo necessità e almeno una volta all'anno, sulla base di incidenti segnalati, raccomandazioni di professionisti legali, suggerimenti di membri della comunità, sviluppi culturali della comunità o altri eventi che creano una necessità di revisione.
+
+I membri della comunità che hanno un suggerimento per una revisione del Codice di condotta possono inviare le loro idee al Comitato tramite e-mail a coc@postgresql.org. 
+
+Anyone filing a complaint concerning an incident is expected to be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation of this policy. Any allegations that prove not to be substantiated, and which prove to have been made maliciously or knowingly to be false, will be viewed as a serious community offense and a violation of this Code of Conduct.
+Updates to the Code of Conduct
+
+The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
+
+Community members who have a suggestion for a revision to the Code of Conduct may submit their ideas to the Committee via email to coc@postgresql.org.
+
 
 # Aggiornamenti del Codice di Comportamento
+Il Comitato e/o il Core Team valuteranno gli aggiornamenti al presente codice di comportamento se necessario ed almeno una volta all'anno. Le eventuali modifiche verranno valutate in base ad incidenti segnalati, raccomandazioni di professionisti legali,suggerimenti da parte di membri della comunità, cambiamenti nella cultura della comunità od altri eventi che richiedano una revisione.
+
+I membri della comunità che abbiano suggerimenti per modificare il codice di comportamento possono inviare le loro idee al Comitato tramite e-mail all'indirizzo coc@postgresql.org.
 
 # Conferenze ed eventi
+Il progetto incoraggia gli organizzatori di eventi a creare e mantenere un proprio codice di comportamento che può anche essere identico a questo codice di comportamento. La gestione rapida ed obiettiva dei comportamenti inappropriati durante l'evento è responsabilità degli organizzatori.
 
 # Conclusioni
+Sono incoraggiate le interazioni a livello tecnico tra i membri della comunità; tuttavia vanno evitati tutti quei comportamenti che siano considerati offensivi da altri membri della comunità.
+
+In tutte le interazioni con la comunità, va quindi usato il proprio giudizio professionale nel mantenere sempre la discussione incentrata sull'attività del progetto e della comunità in maniera che abbia un impatto positivo per tutti.
