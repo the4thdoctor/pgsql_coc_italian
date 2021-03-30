@@ -18,9 +18,9 @@ Additional behaviors which are also violations of this code of conduct include, 
 
 It is also expressly forbidden for anyone to retaliate against a person who brings a complaint under this Code of Conduct, or who assists in investigating such a complaint. Retaliation may take the form of, among other actions:
 
-    further personal attacks (public or private);
-    actions which undermine an individual's professional status and/or status with their employer, coworkers, clients, or community;
-    actions which threaten the individual's privacy, physical person, well-being, home, and/or family.
+* further personal attacks (public or private);
+* actions which undermine an individual's professional status and/or status with their employer, coworkers, clients, or community;
+* actions which threaten the individual's privacy, physical person, well-being, home, and/or family.
 
 Acts of retaliation will be treated in the same manner as any other violation of this Code of Conduct.
 
@@ -46,11 +46,11 @@ If you are the recipient of inappropriate behavior, or witness such behavior, pl
 
 In your report, please include as much detail as possible:
 
-    a description of the incident;
-    the timing of events;
-    screen shots of any electronic discussions;
-    names, and if possible, contact information for any witnesses; and,
-    any other information which you think would be helpful in the investigation.
+* a description of the incident;
+* the timing of events;
+* screen shots of any electronic discussions;
+* names, and if possible, contact information for any witnesses; and,
+* any other information which you think would be helpful in the investigation.
 
 # Handling of Complaints
 
@@ -66,11 +66,11 @@ In the event of a complaint by or against a CoC Committee member or Core Team me
 
 Possible results include, but are not limited to:
 
-    A determination of no violation of the Code of Conduct;
-    A private reprimand with specific guidance on acceptable behavior to the individual(s) involved;
-    A public reprimand with specific guidance on acceptable behavior to the individual(s);
-    A temporary or permanent ban from some or all community-managed spaces, including, but not limited to, community mailing lists, forums, IRC, and loss of commit privileges;
-    A determination for a public and/or private apology.
+* A determination of no violation of the Code of Conduct;
+* A private reprimand with specific guidance on acceptable behavior to the individual(s) involved;
+* A public reprimand with specific guidance on acceptable behavior to the individual(s);
+* A temporary or permanent ban from some or all community-managed spaces, including, but not limited to, community mailing lists, forums, IRC, and loss of commit privileges;
+* A determination for a public and/or private apology.
 
 Because of the seriousness of a determination involving a temporary or permanent ban, and the associated technical and infrastructure actions required by such a result, such a finding would be subject to review by the Core Team before the involved parties are informed of the decision. If the Core Team disagrees with the Committee's finding, the Core Team would present its reasoning to the Committee. The Committee would consider the Core Team's recommendations, and engage in further discussion if needed. If the Core Team and Committee cannot agree on a determination, the Core Team's decision would prevail.
 
