@@ -54,6 +54,33 @@ Nella segnalazione andranno inclusi quanti più dettagli possibili:
 * qualsiasi altra informazione che sia ritenuta utile ai fini dell'indagine.
 
 # Gestione dei reclami
+Il Comitato si attiverà rapidamente per indagare ogni incidente segnalato. Grazie alla collaborazione di tutte le parti in causa, il Comitato mirerà a completare l'indagine entro due settimane dal ricevimento della segnalazione.
+
+Le segnalazioni di incidenti e le attività di indagine saranno mantenute riservate per quanto possibile e compatibilmente con la necessità di condurre un'indagine adeguata.
+
+Il Comitato informerà il denunciante ed il presunto trasgressore della decisione presa. Se l'indagine fosse ancora in corso, il Comitato fornirà alle parti un rapporto sullo stato di avanzamento ed una data stimata di completamento.
+
+La durata di un indagine potrebbe comunque allungarsi in caso di mancanza di collaborazione. Il Comitato cercherà in ogni modo di completare e fornire i risultati dell'indagine alle parti il prima possibile, informandoli nel contempo sulla decisione presa.
+
+In caso di reclamo che coinvolga un membro del Comitato per il Codice di Comportamento od un membro del Core Team, la gestione del reclamo procederà come di consueto. La persona la persona coinvolta nel reclamo dal procedimento verrà esclusa dal suo ruolo di membro del Comitato o del Core Team.
+
+Alcuni dei risultati di un indagine possono essere i seguenti:
+
+* Assenza violazione del Codice di comportamento;
+* Ammonizione della(e) persona(e) coinvolta(e) in forma privata con indicazioni sul comportamento corretto;
+* Ammonizione della(e) persona(e) coinvolta(e) in forma pubblica con indicazioni comportamento corretto;
+* Ban temporaneo o permanente da alcuni o da tutti gli spazi gestiti dalla comunità, inclusi ma non limitati a mailing list della comunità, forum, IRC e perdita dei privilegi di commit;
+* Richiesta di scuse pubbliche e/o private.
+
+Poiché il ban temporaneo o permanente e le azioni tecniche e infrastrutturali ad esso associate sono particolarmente gravi, questo tipo di decisione è soggetta a revisione da parte del Core Team prima che le parti coinvolte vengano informate della decisione. Qualora il Core Team non fosse d'accordo con la conclusione del Comitato questi presenterà le proprie motivazioni al Comitato. In tal caso il comitato dovra considerare le raccomandazioni del Core Team e, se necessario, avviare ulteriori discussioni sul caso. Qualora il Core Team e il Comitato non riuscissero a raggiungere un accordo sul caso, verrà applicata la decisione presa dal Core Team. 
+
+Il Comitato potrebbe stabilire che una violazione sia stata involontaria, forse derivante da differenze culturali (ad esempio, l'uso di un termine gergale innocuo in una lingua ed offensivo in un'altra) oppure un tentativo malriuscito di umorismo. Questi casi saranno usati come opportunità per informare invece che per ammonire. Qualora il Comitato determini che un incidente segnalato rientra nella categoria di violazione involontaria, il Comitato dovrà valutare se ci sono probabilità che l'incidente venga ripetuto da altri. In tal caso dovrà condividere le informazioni relative all'incidente con la comunità in modo da evitare che si ripeta.
+
+Se una delle parti dovesse ritenere che la decisione non sia corretta, può fare ricorso al Comitato entro una settimana dalla sua decisione. Il ricorso dovrebbe comunque includere informazioni aggiuntive quali fonti, testimoni, ecc. Per fornire al Comitato altre informazioni per la riesamina dell'incidente.
+
+I dati relativi ad ogni incidente alle indagini le decisioni del Comitato e di tutte le informazioni ad esso correlate, saranno conservati per un periodo di tre anni solari dalla data dell'ultimo elemento presente nel file dell'incidente. Il Comitato adotterà misure adeguate per garantire la riservatezza di tutti i rapporti e le discussioni.
+
+Ogni anno il Comitato produrrà un rapporto entro la fine del primo trimestre di ogni anno. Nel rapporto saranno riassunti i tipi di reclami ricevuti e le azioni intraprese per affrontare i reclami. Il rapporto sarà condiviso con la comunità. I reclami e le azioni saranno resi anonimi per proteggere l'identità di tutte le parti coinvolte.
 
 # Agire in buona fede
 Chiunque presenti un reclamo relativo ad un incidente deve farlo in buona fede ed avere ragionevoli motivi per ritenere che le informazioni in suo possesso indichino una violazione di questa policy. Qualora un'accusa venga dimostrata come falsa e che venga provato la mala fede in colui che l'ha formulata essa sarà considerata un grave reato comunitario ed una violazione del presente codice di comportamento.
