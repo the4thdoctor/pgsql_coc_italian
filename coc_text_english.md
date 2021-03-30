@@ -1,9 +1,10 @@
-Introduction
+# Introduction
 
 The PostgreSQL Project prides itself on the quality of our code and our work, and the technical and professional accomplishments of our community. We expect everyone who participates to conduct themselves in a professional manner, acting with common courtesy and in the common interest, with respect for all users and developers.
 
 To that end, we have established this Code of Conduct for community interaction and participation in the project’s work and the community at large. This Code is meant to cover all interaction between community members, whether or not it takes place within postgresql.org infrastructure, so long as there is not another Code of Conduct that takes precedence (such as a conference's Code of Conduct).
-Inclusivity and Appropriate Conduct
+
+# Inclusivity and Appropriate Conduct
 
 The PostgreSQL Project is open to participation by anyone with an interest in working with PostgreSQL, regardless of their level of experience with the software, or with technology in general. We encourage development and contributions from all users, whatever their background may be.
 
@@ -12,7 +13,8 @@ We encourage thoughtful, constructive discussion of the software and this commun
 Personal attacks and negative comments on personal characteristics are unacceptable, and will not be permitted. Examples of personal characteristics include, but are not limited to age, race, national origin or ancestry, religion, gender, or sexual orientation.
 
 Additional behaviors which are also violations of this code of conduct include, but are not limited to, threats of violence against an individual or group, threats of professional, community, and/or project sabotage, unwelcome sexual attentions in any form, engaging in behavior that may bring the PostgreSQL project into disrepute, and refusing to cease inappropriate conduct when requested to do so.
-Retaliation
+
+# Retaliation
 
 It is also expressly forbidden for anyone to retaliate against a person who brings a complaint under this Code of Conduct, or who assists in investigating such a complaint. Retaliation may take the form of, among other actions:
 
@@ -21,7 +23,8 @@ It is also expressly forbidden for anyone to retaliate against a person who brin
     actions which threaten the individual's privacy, physical person, well-being, home, and/or family.
 
 Acts of retaliation will be treated in the same manner as any other violation of this Code of Conduct.
-Code of Conduct Committee
+
+# Code of Conduct Committee
 
 The Core Team will appoint a Code of Conduct Committee to receive and investigate all complaints, and a Chair for that Committee. Any member of the community may volunteer to be on the Committee, with the exception of Core Team members. As the Core Team oversees the Committee, Core Team members will not serve on the Committee to prevent conflicts of interest. The membership list of the Committee will be publicly available at all times and can be viewed here.
 
@@ -36,7 +39,8 @@ While there is no specified number of Committee members who may serve at any one
 Committee members serve at the pleasure of the Core Team, and the Core Team may relieve a Committee member of their duties if the Core Team believes that member is not meeting the responsibilities of their position.
 
 The Committee may also approach the Core Team to coordinate removal of a member on their own initiative if such person is unable or unwilling to fulfill the responsibilities of their position.
-Reporting
+
+# Reporting
 
 If you are the recipient of inappropriate behavior, or witness such behavior, please report it promptly to the Code of Conduct Committee at coc@postgresql.org. In the unfortunate event that you wish to make a complaint against some member of the Committee, you may instead contact any of the other Committee member(s) individually.
 
@@ -48,7 +52,7 @@ In your report, please include as much detail as possible:
     names, and if possible, contact information for any witnesses; and,
     any other information which you think would be helpful in the investigation.
 
-Handling of Complaints
+# Handling of Complaints
 
 The Committee will promptly acknowledge and investigate each reported incident. With the cooperation of all parties, the Committee will aim to complete the investigation in a period of two weeks from the receipt of the complaint.
 
@@ -77,7 +81,8 @@ If either party feels the determination is incorrect, an appeal may be filed wit
 Records of incident reports, investigations, Committee decisions, and all related matters will be retained for a period of three calendar years from the date of the last item in the incident file. The Committee will take suitable measures to ensure the confidentiality of all reports and discussions.
 
 The Committee will produce an annual report summarizing the types of complaints received and the actions taken to address the complaints by the end of the first quarter of each year for the prior year, and share that report with the community. The complaints and actions will be anonymized to protect the identities of all involved parties.
-Acting in Good Faith
+
+# Acting in Good Faith
 
 Anyone filing a complaint concerning an incident is expected to be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation of this policy. Any allegations that prove not to be substantiated, and which prove to have been made maliciously or knowingly to be false, will be viewed as a serious community offense and a violation of this Code of Conduct.
 Updates to the Code of Conduct
@@ -85,10 +90,11 @@ Updates to the Code of Conduct
 The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
 
 Community members who have a suggestion for a revision to the Code of Conduct may submit their ideas to the Committee via email to coc@postgresql.org.
-Conferences and Events
+# Conferences and Events
 
 The project encourages each event organizer to create and maintain a Code of Conduct for their event. Those Codes of Conduct may or may not be identical to this Code of Conduct. Each event organizer is responsible for handling inappropriate conduct at their event in a prompt and objective manner.
-Conclusion
+
+# Conclusion
 
 We encourage appropriate and collegial relationships among community members; however, members must be sensitive to conduct that may be considered offensive by fellow members and must refrain from engaging in such conduct.
 
