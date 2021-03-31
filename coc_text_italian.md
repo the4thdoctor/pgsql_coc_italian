@@ -10,10 +10,10 @@ Sono incoraggiate discussioni riflessive e costruttive, relative al software, la
 
 Attacchi personali e commenti negativi riguardanti caratteristiche personali sono inaccettabili e pertanto non saranno permessi. Alcuni esempi di caratteristiche personali sono età, razza, etnicità, religione, genere od orientamento sessuale. 
 
-Altri esempi di comportamento che violano questo Codice di Comportamento sono minacce di violenza verso individui o gruppi, minacce di sabotaggio sia esso di tipo professionale  comunitario o di qualunque progetto, attenzioni sessuali indesiderate sotto qualsiasi forma, comportamenti che possano causare danno di reputazione al progetto PostgreSQL, e rifiuto di cessare qualsiasi condotta inappropriata quando richiesto.
+Altri esempi di comportamento che violano questo Codice di Comportamento sono minacce di violenza verso individui o gruppi, minacce di sabotaggio sia esso di tipo professionale  comunitario o di qualunque progetto, attenzioni sessuali indesiderate sotto qualsiasi forma, comportamenti che possano causare danno di reputazione al progetto PostgreSQL e rifiuto di cessare qualsiasi condotta inappropriata quando richiesto.
 
 # Ritorsioni
-Sono inoltre espressamente vietate ritorsioni contro una persona che presenti un reclamo ai sensi del presente Codice di Comportamento, o contro chiunque stia prestando assistenza alle indagini per tale reclamo.
+Sono inoltre espressamente vietate ritorsioni contro una persona che presenti un reclamo ai sensi del presente Codice di Comportamento o contro chiunque stia prestando assistenza alle indagini per tale reclamo.
 La ritorsione può avvenire sotto forma di queste ed altre azioni:
 
 * ulteriori attacchi personali (pubblici o privati);
@@ -64,7 +64,7 @@ Alcuni dei risultati di un indagine possono essere i seguenti:
 
 * Assenza di violazione del Codice di comportamento;
 * Ammonizione della(e) persona(e) coinvolta(e) in forma privata con indicazioni sul comportamento corretto;
-* Ammonizione della(e) persona(e) coinvolta(e) in forma pubblica con indicazioni comportamento corretto;
+* Ammonizione della(e) persona(e) coinvolta(e) in forma pubblica con indicazioni sul comportamento corretto;
 * Ban temporaneo o permanente da alcuni o da tutti gli spazi gestiti dalla comunità, inclusi ma non limitati a mailing list della comunità, forum, IRC e perdita dei privilegi di commit;
 * Richiesta di scuse pubbliche e/o private.
 
@@ -72,7 +72,7 @@ Poiché il ban temporaneo o permanente e le azioni tecniche e infrastrutturali a
 
 Il Comitato potrebbe stabilire che una violazione sia stata involontaria, forse derivante da differenze culturali (ad esempio, l'uso di un termine gergale innocuo in una lingua ed offensivo in un'altra) oppure un tentativo malriuscito di umorismo. Questi casi saranno usati come opportunità per informare invece che per ammonire. Qualora il Comitato determini che un incidente segnalato rientra nella categoria di violazione involontaria, il Comitato dovrà valutare se ci sono probabilità che l'incidente venga ripetuto da altri. In tal caso dovrà condividere le informazioni relative all'incidente con la comunità in modo da evitare la possibilità che si ripeta.
 
-Se qualsiasi delle parti dovesse ritenere che la decisione non sia corretta, può fare ricorso al Comitato entro una settimana dalla sua decisione. Il ricorso dovrebbe comunque includere informazioni aggiuntive quali fonti, testimoni, ecc. per fornire al Comitato altre informazioni per la riesamina dell'incidente.
+Se una delle parti dovesse ritenere che la decisione non sia corretta, può fare ricorso al Comitato entro una settimana dalla sua decisione. Il ricorso dovrebbe comunque includere informazioni aggiuntive quali fonti, testimoni, ecc. per fornire al Comitato altre informazioni per la riesamina dell'incidente.
 
 I dati relativi ad ogni incidente alle indagini le decisioni del Comitato e di tutte le informazioni ad esso correlate, saranno conservati per un periodo di tre anni solari dalla data dell'ultimo elemento presente nel file dell'incidente. Il Comitato adotterà misure adeguate per garantire la riservatezza di tutti i rapporti e le discussioni.
 
