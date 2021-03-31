@@ -87,10 +87,6 @@ The Committee will produce an annual report summarizing the types of complaints 
 Anyone filing a complaint concerning an incident is expected to be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation of this policy. Any allegations that prove not to be substantiated, and which prove to have been made maliciously or knowingly to be false, will be viewed as a serious community offense and a violation of this Code of Conduct.
 Updates to the Code of Conduct
 
-The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
-
-Community members who have a suggestion for a revision to the Code of Conduct may submit their ideas to the Committee via email to coc@postgresql.org.
-
 # Updates to the Code of Conduct
 The Committee and/or the Core Team will consider updates to this Code of Conduct as needed, and at least once per year, based on incidents reported, recommendations from legal professionals, suggestions from community members, community cultural developments, or other events which create a need for revision.
 
