@@ -34,7 +34,7 @@ Any community member who would like to serve on the Committee will complete an i
 
 The Committee may have a transition period of up to one month to allow transfer of knowledge and responsibilities between the retiring members and the new members.
 
-While there is no specified number of Committee members who may serve at any one time, the Committee will consist of at least four individuals at all times. Committee members are asked to commit to a minimum of one year of service, and may serve longer if they are so inclined, to a maximum of three years.
+While there is no specified number of Committee members who may serve at any one time, the Committee will consist of at least four individuals at all times. A term for a Committee member is one (1) year. A Committee member may serve no more than three (3) terms consecutively.
 
 Committee members serve at the pleasure of the Core Team, and the Core Team may relieve a Committee member of their duties if the Core Team believes that member is not meeting the responsibilities of their position.
 
