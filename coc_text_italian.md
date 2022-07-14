@@ -31,7 +31,7 @@ Qualsiasi membro della comunità che desidera far parte del Comitato dovrà comp
 
 Il periodo di transizione tra il nuovo Comitato e quello uscente potrà durare fino a un mese per consentire il trasferimento di informazioni e di responsabilità.
 
-Sebbene non esista un numero specifico di membri del Comitato, il Comitato sarà sempre composto da almeno quattro persone. I membri del Comitato rimangono in carica per un (1) anno. I membri del Comitato non possono rimanere in carica per più di tre (3) anni consecutivi.
+Sebbene non esista un numero specifico di membri del Comitato, il Comitato sarà sempre composto da almeno quattro persone. I membri del Comitato rimangono in carica per un (1) anno.I membri del Comitato non possono rimanere in carica per più di tre (3) mandati consecutivi.
 
 I membri del Comitato sono sottoposti al Core Team. Il Core Team può decidere a propria discrezione la rimozione di un membro del Comitato dalla carica se questi non stesse adempiendo alle responsabilità richieste dal suo incarico.
 
